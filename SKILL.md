@@ -1,7 +1,7 @@
 ---
 name: linkedin-person-search
 description: Official skill for upkuajing (跨境魔方). Search people (找人) from LinkedIn data. Find people by name, company, position, and industry. Ideal for talent search and lead development on LinkedIn data.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"👤","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"👤","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # LinkedIn Person Search
