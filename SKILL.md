@@ -1,7 +1,7 @@
 ---
 name: linkedin-person-search
-description: Official skill for upkuajing (跨境魔方). Search people (找人) from LinkedIn data. Find people by name, company, position, and industry. Ideal for talent search and lead development on LinkedIn data.
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"👤","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Search LinkedIn professionals with name, company and job‑title filters. Fetch profile information to support head‑hunting and global sales‑lead development.\n\nTrigger: LinkedIn people search, find targeted professionals, global lead generation, executive headhunting, contact‑data enrichment"
+metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"👤","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # LinkedIn Person Search
@@ -158,6 +158,16 @@ Other UpKuaJing skills you might find useful:
 - global-company-person-search — Search people from the global company database
 - linkedin-company-search — Search companies from LinkedIn data
 - global-company-search — Search companies from the global company database
+- global-company-shareholder — Query shareholder list from the global company database
+- global-company-employee — Query employee list from the global company database
+- global-company-person-colleague — Query colleague list from the global company database
+- global-company-person-alumni — Query alumni list from the global company database
+- global-company-person-experience — Query work experience list from the global company database
+- global-company-person-education — Query education history list from the global company database
+- global-company-person-school-detail — Query school detail from the global company database
 - upkuajing-global-company-people-search — Unified company and people search across all sources
 - upkuajing-customs-trade-company-search — Search customs trade companies
 - upkuajing-contact-info-validity-check — Check contact info validity
+- phone-validity-check — Check phone number validity
+- email-validity-check — Check email address validity
+- domain-validity-check — Check domain validity and security
